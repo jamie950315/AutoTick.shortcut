@@ -10,3 +10,8 @@ A shortcut that automatically performs a designated shortcut every period of tim
     2. Any
     3. Run Immediately
 3. On the Next screen select this shortcut.
+
+## Related Shortcuts
+[ChangeWatchFace](https://github.com/jamie950315/ChangeWatchFace)
+
+[CycleVariableIndexInNotes.shortcut](https://github.com/jamie950315/CycleVariableIndexInNotes.shortcut)
